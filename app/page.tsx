@@ -32,9 +32,6 @@ export default function Home() {
           </div>
         </div>
       </Section>
-      <Section>
-        <div className="grid-halves h-screen-navbar"></div>
-      </Section>
     </Layout>
   );
 }
